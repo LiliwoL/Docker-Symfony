@@ -1,0 +1,9 @@
+# DB Data
+DockerMariaDB/dbdata
+
+# SymfonyApp (it's another git repo)
+SymfonyApp/
+
+# Idea
+.idea
+.DS_Store
